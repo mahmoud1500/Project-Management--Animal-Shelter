@@ -3,10 +3,6 @@
 
 A global database and public search platform that consolidates real-time adoption data from animal shelters across the **United States**, **Australia**, **Canada**, and **Western Europe** — making it easier for families worldwide to find and adopt dogs (and potentially other pets in future phases).
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Happy+Adopted+Dog" alt="Happy adopted dog" width="800"/>
-  <br><em>Helping every pet find their forever home</em>
-</p>
 
 ## 📋 Project Overview
 
@@ -66,9 +62,7 @@ A global database and public search platform that consolidates real-time adoptio
 - **Frontend** — Modern responsive web portal (details TBD in design docs)  
 - **Backend** — REST/GraphQL APIs + real-time data syncing  
 
-(Tech stack details will be expanded in `/docs/architecture.md` once finalized)
 
-## 🚀 Getting Started (for contributors / reviewers)
 
 ```bash
 # 1. Clone the repo
