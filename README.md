@@ -1,2 +1,79 @@
 # Project-Management--Animal-Shelter
-Animal Shelter Database ProjectThis project focuses on developing a global database and search platform to help prospective families adopt dogs by consolidating data from animal shelters across the United States, Australia, Canada, and Western Europe.## Project OverviewTotal Budget: $440,000.Projected Timeline: June 7, 2025, to March 2, 2026 (approximately 191 days).Sponsors: PETA and Various Foreign Government Entities.Key Deliverable: A public search portal for global dog adoption.## Development Phases & BudgetingThe project is structured into six major phases as outlined in the Work Breakdown Structure (WBS) and budget estimates:PhaseDurationEstimated CostKey ActivitiesGathering Data23 Days$20,000Collecting local and foreign shelter data.Design Phase16 Days$30,000Finalizing system architecture and data warehouse infrastructure.Development37 Days$270,000Building the database, UI implementation, and website construction.Testing Phase23 Days$20,000Website bug testing and final quality assurance (QA).Deployment55 Days$35,000Creating manuals, employee training, and the global launch.Closing Phase26 Days$50,000Expansion roadmap, handoff, and final review.## Core Team & StakeholdersProduct Owner: Devin Brown – Defines vision and prioritizes features.Scrum Master: Doucette Kashala – Facilitates Agile processes and removes blockers.Developers: Mahmoud Faisal & Daniel Ngoy – Responsible for database design, API implementation, and UI integration.Partners: Local and Foreign Animal Shelters providing breed-specific data.## Risk ManagementThe project tracks several high-impact risks to ensure successful delivery:Scope Creep: Managed through strict backlog prioritization by Mahmoud Faisal.Technical Debt: Addressed by encouraging the dev team to include refactoring tasks in sprints.Integration Issues: Mitigated via dedicated technical spikes to prototype API integrations early.User Adoption: Targeted through user training and feedback loops during sprint reviews.## Communication StrategyTo maintain alignment, the project utilizes the following communication rhythm:Daily: Team Stand-ups (10 min) to identify blockers.Weekly: Technical reviews and Risk/Issue log reviews.Bi-weekly: Project status reports for sponsors (PETA/Governments).Quarterly: Workshops with shelter managers for requirement validation and training.
+# Animal Shelter Database Project
+
+A global database and public search platform that consolidates real-time adoption data from animal shelters across the **United States**, **Australia**, **Canada**, and **Western Europe** — making it easier for families worldwide to find and adopt dogs (and potentially other pets in future phases).
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Happy+Adopted+Dog" alt="Happy adopted dog" width="800"/>
+  <br><em>Helping every pet find their forever home</em>
+</p>
+
+## 📋 Project Overview
+
+- **Total Budget**: $440,000  
+- **Timeline**: June 7, 2025 – March 2, 2026 (≈9 months)  
+- **Project Manager & Lead Developer**: Mahmoud Faisal  
+- **Primary Goal**: Build a **public-facing search portal** that aggregates shelter data and streamlines the global dog adoption process
+
+## 🏗️ Project Phases & Budget (WBS)
+
+| Phase            | Duration   | Estimated Cost | Key Activities                              |
+|------------------|------------|----------------|---------------------------------------------|
+| Gathering Data   | 23 days    | $20,000        | Collecting local + international shelter data |
+| Design Phase     | 16 days    | $30,000        | System architecture, infrastructure & DB design |
+| Development      | 37 days    | $270,000       | Database, backend APIs, frontend UI & website |
+| Testing Phase    | 23 days    | $20,000        | Bug tracking, QA, performance & security testing |
+| Deployment       | 55 days    | $35,000        | Staff training, global launch & monitoring setup |
+| Closing Phase    | 26 days    | $50,000        | Expansion roadmap, documentation & handoff     |
+
+**Total Duration**: ~180 days  
+**Total Budget**: $440,000
+
+## 👥 Stakeholders & Team
+
+- **Product Owner** — Devin Brown  
+  → Defines vision, prioritizes features  
+- **Scrum Master** — Doucette Kashala  
+  → Runs Agile ceremonies, removes impediments  
+- **Developers**  
+  - Mahmoud Faisal (lead)  
+  - Daniel Ngoy  
+  → Database, APIs, UI/UX integration  
+- **Sponsors** — PETA + supporting government entities  
+- **Key Partners** — Local and international animal shelters (real-time data providers)
+
+## ⚠️ Key Risks & Mitigation Strategies
+
+| Risk              | Mitigation Strategy                              | Owner             |
+|-------------------|--------------------------------------------------|-------------------|
+| Scope Creep       | Strict backlog prioritization + DoD enforcement  | Mahmoud Faisal    |
+| Technical Debt    | Dedicated refactoring tasks in each sprint       | Devin Brown       |
+| Poor User Adoption| Early feedback loops + training during reviews   | Mahmoud Faisal    |
+| Integration Issues| Early API spikes & prototyping                   | Daniel Ngoy       |
+
+## 📡 Communication Plan
+
+- **Daily** — 10-minute stand-ups ( blockers & progress)  
+- **Weekly** — Technical deep-dives + Risk/Issue log review  
+- **Bi-weekly** — Status reports to sponsors (PETA & governments)  
+- **Quarterly** — Workshops / UAT sessions with shelter managers
+
+## 🛠️ Technology & Infrastructure
+
+- **Database** — Hosted on dedicated infrastructure (1-year lease)  
+- **Hardware** — Custom servers + networking switches  
+- **Integration** — API-led connectivity with legacy shelter systems  
+- **Frontend** — Modern responsive web portal (details TBD in design docs)  
+- **Backend** — REST/GraphQL APIs + real-time data syncing  
+
+(Tech stack details will be expanded in `/docs/architecture.md` once finalized)
+
+## 🚀 Getting Started (for contributors / reviewers)
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/yourusername/animal-shelter-database.git
+
+# 2. See documentation
+cd animal-shelter-database
+ls docs/
