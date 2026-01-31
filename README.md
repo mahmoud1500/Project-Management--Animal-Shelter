@@ -23,7 +23,7 @@ A global database and public search platform consolidating real-time adoption da
 | Closing Phase    | 26 days    | $50,000        | Expansion roadmap, documentation & handoff  |
 
 **Total**: ~180 days / $440,000  
-Detailed breakdown → [Total Budget - Estimate Activity Cost.docx](/docs/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx)
+Detailed breakdown → [Total Budget - Estimate Activity Cost.docx](Total Budget - Estimate Activity Cost.docx)
 
 ## 👥 Stakeholders
 
@@ -41,7 +41,7 @@ Detailed breakdown → [Total Budget - Estimate Activity Cost.docx](/docs/Total%
 | Foreign Animal Shelters    | Partners             | Provide daily dog intake/outcome data (Australia, Canada, Europe)                | External | Medium| Email, Phone, Meeting          |
 | Prospective Adopting Families | End Users         | Use the system to search and adopt dogs globally                                 | External | Low   | Website                        |
 
-Full list → [StakeHolder List.pdf](/docs/StakeHolder%20List.pdf)
+Full list → [StakeHolder List.pdf](StakeHolder List.pdf)
 
 ## 📡 Communication Plan
 
@@ -56,7 +56,7 @@ Full list → [StakeHolder List.pdf](/docs/StakeHolder%20List.pdf)
 | Change Request Board        | Project Owner, Sponsor                     | Virtual Meeting            | As Needed          | Project Owner      | Evaluate changes, impact assessment, scope decisions                    |
 | User Support Channel        | Shelters, Adopters                         | Website Ticketing / Email  | Ongoing            | Support Lead       | Technical assistance, issue resolution, usage questions                 |
 
-Full plan → [Communication Plan.pdf](/docs/Communication%20Plan.pdf)
+Full plan → [Communication Plan.pdf](Communication Plan.pdf)
 
 ## ⚠️ Risks & Mitigation
 
