@@ -1,70 +1,96 @@
 # Project-Management--Animal-Shelter
 # Animal Shelter Database Project
 
-A global database and public search platform that consolidates real-time adoption data from animal shelters across the **United States**, **Australia**, **Canada**, and **Western Europe** — making it easier for families worldwide to find and adopt dogs (and potentially other pets in future phases).
+A global database and public search platform consolidating real-time adoption data from animal shelters in the **United States**, **Australia**, **Canada**, and **Western Europe** — helping families worldwide find and adopt dogs more easily.
 
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Happy+Adopted+Dog" alt="Happy adopted dog" width="800"/>
+  <br><em>Helping every pet find their forever home</em>
+</p>
 
 ## 📋 Project Overview
 
 - **Total Budget**: $440,000  
-- **Timeline**: June 7, 2025 – March 2, 2026 (≈9 months)  
+- **Timeline**: June 7, 2025 – March 2, 2026 (~9 months)  
 - **Project Manager & Lead Developer**: Mahmoud Faisal  
-- **Primary Goal**: Build a **public-facing search portal** that aggregates shelter data and streamlines the global dog adoption process
+- **Primary Goal**: Create a **public search portal** that aggregates shelter data and simplifies global dog adoption
 
-## 🏗️ Project Phases & Budget (WBS)
+## 🏗️ Project Phases & Budget
 
 | Phase            | Duration   | Estimated Cost | Key Activities                              |
 |------------------|------------|----------------|---------------------------------------------|
 | Gathering Data   | 23 days    | $20,000        | Collecting local + international shelter data |
 | Design Phase     | 16 days    | $30,000        | System architecture, infrastructure & DB design |
-| Development      | 37 days    | $270,000       | Database, backend APIs, frontend UI & website |
-| Testing Phase    | 23 days    | $20,000        | Bug tracking, QA, performance & security testing |
-| Deployment       | 55 days    | $35,000        | Staff training, global launch & monitoring setup |
-| Closing Phase    | 26 days    | $50,000        | Expansion roadmap, documentation & handoff     |
+| Development      | 37 days    | $270,000       | Database, APIs, frontend UI & website       |
+| Testing Phase    | 23 days    | $20,000        | Bug tracking, QA, performance & security    |
+| Deployment       | 55 days    | $35,000        | Staff training, global launch & monitoring  |
+| Closing Phase    | 26 days    | $50,000        | Expansion roadmap, documentation & handoff  |
 
-**Total Duration**: ~180 days  
-**Total Budget**: $440,000
+**Total**: ~180 days / $440,000  
+Detailed breakdown → [Total Budget - Estimate Activity Cost.docx](/docs/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx)
 
-## 👥 Stakeholders & Team
+## 👥 Stakeholders
 
-- **Product Owner** — Devin Brown  
-  → Defines vision, prioritizes features  
-- **Scrum Master** — Doucette Kashala  
-  → Runs Agile ceremonies, removes impediments  
-- **Developers**  
-  - Mahmoud Faisal (lead)  
-  - Daniel Ngoy  
-  → Database, APIs, UI/UX integration  
-- **Sponsors** — PETA + supporting government entities  
-- **Key Partners** — Local and international animal shelters (real-time data providers)
+| Name                        | Role                  | Responsibilities                                                                 | Category | Power | Communication                  |
+|-----------------------------|-----------------------|----------------------------------------------------------------------------------|----------|-------|--------------------------------|
+| Devin Brown                | Product Owner        | Defines product vision, prioritizes features, represents stakeholder needs       | Internal | High  | Email, Teams, Phone            |
+| Doucette Kashala           | Scrum Master         | Facilitates Agile processes, removes blockers, ensures team productivity         | Internal | High  | Email, Teams, Phone            |
+| Mahmoud Faisal             | Developer            | Designs and builds database and integration components                           | Internal | Low   | Email                          |
+| Daniel Ngoy                | Developer            | Implements APIs, contributes to UI/backend integration                           | Internal | Low   | Email                          |
+| PETA                       | Grant Sponsor        | Provides funding and oversight, advocates for global animal welfare              | External | High  | Email, Phone, Meeting          |
+| Foreign Countries Government | Sponsor            | Provides funding and support for Canada, Australia, Western Europe               | External | High  | Email, Phone, Meeting          |
+| Data Warehouse Developer   |                      | Creates database infrastructure and links data between countries                 | External | Medium| Email, Phone                   |
+| IT Integration Vendors     | IT Consultant        | Provides tools/services for legacy system integration & data center build        | External | Medium| Email, Phone, Meeting          |
+| Local Animal Shelters      | Partners             | Provide daily dog intake/outcome data (USA)                                      | External | Medium| Email, Phone, Meeting          |
+| Foreign Animal Shelters    | Partners             | Provide daily dog intake/outcome data (Australia, Canada, Europe)                | External | Medium| Email, Phone, Meeting          |
+| Prospective Adopting Families | End Users         | Use the system to search and adopt dogs globally                                 | External | Low   | Website                        |
 
-## ⚠️ Key Risks & Mitigation Strategies
-
-| Risk              | Mitigation Strategy                              | Owner             |
-|-------------------|--------------------------------------------------|-------------------|
-| Scope Creep       | Strict backlog prioritization + DoD enforcement  | Mahmoud Faisal    |
-| Technical Debt    | Dedicated refactoring tasks in each sprint       | Devin Brown       |
-| Poor User Adoption| Early feedback loops + training during reviews   | Mahmoud Faisal    |
-| Integration Issues| Early API spikes & prototyping                   | Daniel Ngoy       |
+Full list → [StakeHolder List.pdf](/docs/StakeHolder%20List.pdf)
 
 ## 📡 Communication Plan
 
-- **Daily** — 10-minute stand-ups ( blockers & progress)  
-- **Weekly** — Technical deep-dives + Risk/Issue log review  
-- **Bi-weekly** — Status reports to sponsors (PETA & governments)  
-- **Quarterly** — Workshops / UAT sessions with shelter managers
+| Communication Item          | Audience                                   | Method                     | Frequency          | Owner              | Purpose                                                                 |
+|-----------------------------|--------------------------------------------|----------------------------|--------------------|--------------------|-------------------------------------------------------------------------|
+| Project Status Report       | Sponsors (PETA, Governments)               | Email                      | Bi-weekly / Monthly| Project Owner      | Progress, budget, schedule, risks, decisions needed                     |
+| Team Stand-up               | Core Project Team                          | Virtual Meeting            | Daily (10 min)     | Scrum Master       | Share progress, challenges, blockers                                    |
+| Technical Review            | Dev Team, Architects                       | Virtual Meeting / Workshop | Weekly             | IT Integration Vendors | Design choices, technical challenges, integration points            |
+| Stakeholder Sync            | PETA, Granting Governments                 | Virtual Meeting            | Bi-weekly          | Project Owner      | Progress update, feedback, alignment                                    |
+| Shelter Representative Workshop | Shelter Managers, IT Staff             | Virtual / On-site          | Quarterly (initially) | Developers      | Requirements, design validation, UAT, training                          |
+| Risk/Issue Log Review       | Project Management Team                    | Internal Meeting           | Weekly             | Owner / Scrum Master | Review risks, assess new issues, track resolution                    |
+| Change Request Board        | Project Owner, Sponsor                     | Virtual Meeting            | As Needed          | Project Owner      | Evaluate changes, impact assessment, scope decisions                    |
+| User Support Channel        | Shelters, Adopters                         | Website Ticketing / Email  | Ongoing            | Support Lead       | Technical assistance, issue resolution, usage questions                 |
 
-## 🛠️ Technology & Infrastructure
+Full plan → [Communication Plan.pdf](/docs/Communication%20Plan.pdf)
 
-- **Database** — Hosted on dedicated infrastructure (1-year lease)  
-- **Hardware** — Custom servers + networking switches  
-- **Integration** — API-led connectivity with legacy shelter systems  
-- **Frontend** — Modern responsive web portal (details TBD in design docs)  
-- **Backend** — REST/GraphQL APIs + real-time data syncing  
+## ⚠️ Risks & Mitigation
 
+Detailed risk register with impact, likelihood, mitigation strategies and owners → [Risk Analysis](/docs/Risk_Analysis.pdf) (or similar file name)
 
+## 🗂️ Key Project Artifacts
+
+- **Work Breakdown Structure (WBS)** → [WBS_Diagram.pdf](/docs/WBS_Diagram.pdf) or embedded image when available
+- **Responsibility Assignment Matrix (RAM / RACI)** → [RAM.pdf](/docs/RAM.pdf)
+- **Budget & Payment Schedule** → [Total Budget - Estimate Activity Cost.docx](/docs/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx)
+- **Activity Durations** → [Estimate Activity Duration.pdf](/docs/Estimate%20Activity%20Duration.pdf)
+
+## 🛠️ Technology & Infrastructure (Planned)
+
+- Database hosted on dedicated infrastructure (1-year lease)
+- Custom servers + networking switches
+- API-led integration with legacy shelter systems
+- Modern responsive web portal
+- REST / GraphQL APIs + real-time data sync
+
+(Tech stack & architecture details → `/docs/architecture.md` – coming soon)
+
+## 🚀 Getting Started
 
 ```bash
+# Clone the repository
+git clone https://github.com/yourusername/animal-shelter-database.git
+
+# View documentation
+cd animal-shelter-database/docs
 # 1. Clone the repo
 git clone https://github.com/yourusername/animal-shelter-database.git
 
