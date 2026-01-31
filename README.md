@@ -3,10 +3,6 @@
 
 A global database and public search platform consolidating real-time adoption data from animal shelters in the **United States**, **Australia**, **Canada**, and **Western Europe** — helping families worldwide find and adopt dogs more easily.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Happy+Adopted+Dog" alt="Happy adopted dog" width="800"/>
-  <br><em>Helping every pet find their forever home</em>
-</p>
 
 ## 📋 Project Overview
 
