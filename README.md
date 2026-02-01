@@ -23,7 +23,7 @@ A global database and public search platform consolidating real-time adoption da
 | Closing Phase    | 26 days    | $50,000        | Expansion roadmap, documentation & handoff  |
 
 **Total**: ~180 days / $440,000  
-Detailed breakdown → [Total Budget - Estimate Activity Cost.docx](Total Budget - Estimate Activity Cost.docx)
+Detailed breakdown → [Total Budget - Estimate Activity Cost.docx](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/7c283c820425541adca9401f9a92219bb50338f9/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx)
 
 ## 👥 Stakeholders
 
