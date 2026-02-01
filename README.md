@@ -41,7 +41,7 @@ Detailed breakdown → [Total Budget - Estimate Activity Cost.docx](https://gith
 | Foreign Animal Shelters    | Partners             | Provide daily dog intake/outcome data (Australia, Canada, Europe)                | External | Medium| Email, Phone, Meeting          |
 | Prospective Adopting Families | End Users         | Use the system to search and adopt dogs globally                                 | External | Low   | Website                        |
 
-Full list → [StakeHolder List.pdf](StakeHolder List.pdf)
+Full list → [StakeHolder List.pdf]([StakeHolder List.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/StakeHolder%20List.pdf))
 
 ## 📡 Communication Plan
 
@@ -56,7 +56,7 @@ Full list → [StakeHolder List.pdf](StakeHolder List.pdf)
 | Change Request Board        | Project Owner, Sponsor                     | Virtual Meeting            | As Needed          | Project Owner      | Evaluate changes, impact assessment, scope decisions                    |
 | User Support Channel        | Shelters, Adopters                         | Website Ticketing / Email  | Ongoing            | Support Lead       | Technical assistance, issue resolution, usage questions                 |
 
-Full plan → [Communication Plan.pdf](Communication Plan.pdf)
+Full plan → [Communication Plan.pdf]([Communication Plan.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Communication%20Plan.pdf))
 
 ## ⚠️ Risks & Mitigation
 
@@ -64,10 +64,10 @@ Detailed risk register with impact, likelihood, mitigation strategies and owners
 
 ## 🗂️ Key Project Artifacts
 
-- **Work Breakdown Structure (WBS)** → [WBS_Diagram.pdf](/docs/WBS_Diagram.pdf) or embedded image when available
-- **Responsibility Assignment Matrix (RAM / RACI)** → [RAM.pdf](/docs/RAM.pdf)
-- **Budget & Payment Schedule** → [Total Budget - Estimate Activity Cost.docx](/docs/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx)
-- **Activity Durations** → [Estimate Activity Duration.pdf](/docs/Estimate%20Activity%20Duration.pdf)
+- **Work Breakdown Structure (WBS)** → [WBS_Diagram.pdf]([/docs/WBS_Diagram.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Animal%20Shelter%20WBS.jpeg)) or embedded image when available
+- **Responsibility Assignment Matrix (RAM / RACI)** → [RAM.pdf]([/docs/RAM.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/RAM.pdf))
+- **Budget & Payment Schedule** → [Total Budget - Estimate Activity Cost.docx](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx)
+- **Activity Durations** → [Estimate Activity Duration.pdf]([Estimate Activity Duration.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx))
 
 ## 🛠️ Technology & Infrastructure (Planned)
 
