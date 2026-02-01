@@ -60,36 +60,14 @@ Full plan → [Communication Plan.pdf]([Communication Plan.pdf](https://github.c
 
 ## ⚠️ Risks & Mitigation
 
-Detailed risk register with impact, likelihood, mitigation strategies and owners → [Risk Analysis](/docs/Risk_Analysis.pdf) (or similar file name)
+Detailed risk register with impact, likelihood, mitigation strategies and owners → [Risk Analysis]([/docs/Risk_Analysis.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/22c98ff0db11bc1ad7e1f3da7f9f33f0d20f1750/Risk%20Analysis.jpg)) 
 
 ## 🗂️ Key Project Artifacts
 
-- **Work Breakdown Structure (WBS)** → [WBS_Diagram.pdf]([/docs/WBS_Diagram.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Animal%20Shelter%20WBS.jpeg)) or embedded image when available
+- **Work Breakdown Structure (WBS)** → [WBS_Diagram.pdf]([/docs/WBS_Diagram.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Animal%20Shelter%20WBS.jpeg)) 
 - **Responsibility Assignment Matrix (RAM / RACI)** → [RAM.pdf]([/docs/RAM.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/RAM.pdf))
 - **Budget & Payment Schedule** → [Total Budget - Estimate Activity Cost.docx](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx)
 - **Activity Durations** → [Estimate Activity Duration.pdf]([Estimate Activity Duration.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx))
 
-## 🛠️ Technology & Infrastructure (Planned)
 
-- Database hosted on dedicated infrastructure (1-year lease)
-- Custom servers + networking switches
-- API-led integration with legacy shelter systems
-- Modern responsive web portal
-- REST / GraphQL APIs + real-time data sync
-
-(Tech stack & architecture details → `/docs/architecture.md` – coming soon)
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/animal-shelter-database.git
-
-# View documentation
-cd animal-shelter-database/docs
-# 1. Clone the repo
-git clone https://github.com/yourusername/animal-shelter-database.git
-
-# 2. See documentation
-cd animal-shelter-database
 ls docs/
