@@ -1,5 +1,4 @@
 # Project-Management--Animal-Shelter
-# Animal Shelter Database Project
 
 A global database and public search platform consolidating real-time adoption data from animal shelters in the **United States**, **Australia**, **Canada**, and **Western Europe** — helping families worldwide find and adopt dogs more easily.
 
@@ -10,6 +9,10 @@ A global database and public search platform consolidating real-time adoption da
 - **Timeline**: June 7, 2025 – March 2, 2026 (~9 months)  
 - **Project Manager & Lead Developer**: Mahmoud Faisal  
 - **Primary Goal**: Create a **public search portal** that aggregates shelter data and simplifies global dog adoption
+
+## 🏗️ Jira Sprint
+<img width="1610" height="675" alt="image" src="https://github.com/user-attachments/assets/d8352860-6805-4828-b374-05ed56e86be2" />
+
 
 ## 🏗️ Project Phases & Budget
 
