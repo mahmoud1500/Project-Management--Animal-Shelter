@@ -61,16 +61,31 @@ Full list → [StakeHolder List.pdf]([StakeHolder List.pdf](https://github.com/m
 
 Full plan → [Communication Plan.pdf]([Communication Plan.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Communication%20Plan.pdf))
 
+## Project Schedule
+<img width="1610" height="568" alt="image" src="https://github.com/user-attachments/assets/04c6de1a-5411-4836-b35f-4e82539054de" />
+
+**Budget & Payment Schedule** → [Total Budget - Estimate Activity Cost.docx](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/7ff57ac1ca11fcf14d76d70582e178ea0a85edc2/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx)
+<img width="1403" height="727" alt="image" src="https://github.com/user-attachments/assets/dbff577c-534b-4565-8009-4d193cc2933d" />
+
+- **Activity Durations** → [Estimate Activity Duration.pdf]([Estimate Activity Duration.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx))
+
+## Gantt Chart
+<img width="1121" height="764" alt="image" src="https://github.com/user-attachments/assets/c4176338-a644-44d6-97b5-d2440179202d" />
+## Network Diagram
+<img width="1574" height="473" alt="image" src="https://github.com/user-attachments/assets/401c2150-3ded-435d-83c8-42f63891db2f" />
+
+- **Work Breakdown Structure (WBS)** → [WBS_Diagram.pdf]([/docs/WBS_Diagram.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Animal%20Shelter%20WBS.jpeg))
+- **Responsibility Assignment Matrix (RAM / RACI)** → [RAM.pdf]([/docs/RAM.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/RAM.pdf))
+<img width="1282" height="727" alt="image" src="https://github.com/user-attachments/assets/89f40fed-6243-4865-8970-1ca26ec59bb6" />
+
 ## ⚠️ Risks & Mitigation
 
 Detailed risk register with impact, likelihood, mitigation strategies and owners → [Risk Analysis]([/docs/Risk_Analysis.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/22c98ff0db11bc1ad7e1f3da7f9f33f0d20f1750/Risk%20Analysis.jpg)) 
+<img width="1198" height="623" alt="image" src="https://github.com/user-attachments/assets/46e3ab87-8d68-4c5a-93cf-3df14f68ce11" />
 
-## 🗂️ Key Project Artifacts
+## Take Aways
+1-Assigning Tasks for team members
+2-Setting up the project Schedule
+3-Finishing task before deadline
+4-Using tools like Jira and the Gantt chart helped us stay organized
 
-- **Work Breakdown Structure (WBS)** → [WBS_Diagram.pdf]([/docs/WBS_Diagram.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Animal%20Shelter%20WBS.jpeg)) 
-- **Responsibility Assignment Matrix (RAM / RACI)** → [RAM.pdf]([/docs/RAM.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/RAM.pdf))
-- **Budget & Payment Schedule** → [Total Budget - Estimate Activity Cost.docx](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx)
-- **Activity Durations** → [Estimate Activity Duration.pdf]([Estimate Activity Duration.pdf](https://github.com/mahmoud1500/Project-Management--Animal-Shelter/blob/6e60f923fa516bda71ce83c4883f6790344b9a1c/Total%20Budget%20-%20Estimate%20Activity%20Cost.docx))
-
-
-ls docs/
