@@ -85,7 +85,10 @@ Detailed risk register with impact, likelihood, mitigation strategies and owners
 
 ## Take Aways
 1-Assigning Tasks for team members
+
 2-Setting up the project Schedule
+
 3-Finishing task before deadline
+
 4-Using tools like Jira and the Gantt chart helped us stay organized
 
